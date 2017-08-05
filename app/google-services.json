@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "468012473844",
+    "firebase_url": "https://mob-incrivel-69832.firebaseio.com",
+    "project_id": "mob-incrivel-69832",
+    "storage_bucket": "mob-incrivel-69832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468012473844:android:f5dc7b7efc731d3b",
+        "android_client_info": {
+          "package_name": "com.example.logonrm.a13mobfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468012473844-4f8ibsavb24600pll2ijh8qo7tpgup7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCSrlfIa4WYlH62VZMXr23GtcONbc6dvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
